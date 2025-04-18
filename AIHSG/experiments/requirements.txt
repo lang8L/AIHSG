@@ -1,0 +1,10 @@
+torch
+requests
+nltk
+sentence-transformers
+transformers
+omegaconf
+hydra-core
+pandas
+mlflow
+openai
